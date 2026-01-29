@@ -11,6 +11,8 @@ def ispalindrome(n):
 
 print(reverse(1235))
 print(ispalindrome(1236))
+print(reverse(1234))
+print(ispalindrome(1239))
 print(reverse(121))
 print(ispalindrome(121))
 
